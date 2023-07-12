@@ -134,16 +134,16 @@ Arcanist class...
 
 There are 4 things to do before using this mod on your server :
 
-- Create a folder "epicka" in your world folder and create a subfolder "skills".
-- Add and custom the configSkills.json file in your epicka folder.
+- Create a folder `epicka` in your `world` folder and create a subfolder `skills`.
+- Add and custom the `configSkills.json` file in your epicka folder.
 - Add CustomNPC 1.12.2 depencie.
-- ⚠️**Contact me to send you an authorization to use it on your production server.**⚠️
+- ⚠️`Contact me to send you an authorization to use it on your production server.`⚠️
 
 Run your server and enjoy !
 
 
 ## Credits
 
-- Epicka Crew => https://discord.gg/NBhJkC2Vfu
+- Epicka Crew ▶️ https://discord.gg/NBhJkC2Vfu
 - Justin for beautiful designs !
 - ElDrake for help me on this mod !
