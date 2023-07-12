@@ -153,7 +153,7 @@ Run your server and enjoy !
 
 `/epickskillpts <add/remove/set/view> <playerName> <value>` => Add skill points
 
-`/epickskill <skill1 / skill2 / skill3 / ulti> <playerName> <0 => Blocked / 1 to 3 => Level In>` => Set skill level
+`/epickskill <skill1/skill2/skill3/ulti> <playerName> <0 => Blocked / 1 to 3 => Level In>` => Set skill level
 
 `/epickskillsreload <skill1 / skill2 / skill3 / ulti>` => reload skill config
 
