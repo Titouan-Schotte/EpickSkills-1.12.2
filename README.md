@@ -14,11 +14,9 @@ Feel free to pull request your language update !!
 
 Arcanist class...
 
-![image](https://github.com/Titouan-Schotte/EpickSkills/assets/73279480/a77cf5e9-ae5b-4d84-a626-7635bf8b901e)
+![skill1](https://github.com/Titouan-Schotte/EpickSkills/assets/73279480/1fb0c6bf-50b3-4be2-aabb-5ad41d28c0bc)
 
-![image](https://github.com/Titouan-Schotte/EpickSkills/assets/73279480/f28ffc75-adf3-46be-b32b-e6cf6ff944d5)
-
-![image](https://github.com/Titouan-Schotte/EpickSkills/assets/73279480/29892958-5925-4044-a75f-0f2821d93b55)
+![2022-09-10_23-08-25_AdobeExpress](https://github.com/Titouan-Schotte/EpickSkills/assets/73279480/b04df40e-fb71-4f2b-81ec-05dde46e8b6d)
 
 
 
@@ -39,10 +37,12 @@ Arcanist class...
 
 
 ![assa3-hover](https://github.com/Titouan-Schotte/EpickSkills/assets/73279480/10789b2c-d829-4746-a442-69401e6f5f42)
+
 => Vous étourdissez les ennemis dans un rayon donné.
 
 
 ![assaulti](https://github.com/Titouan-Schotte/EpickSkills/assets/73279480/a1f3ca2a-7596-477a-8cfb-c1e32aaaa373)
+
 => Vous invoquez une puissante pluie de shurikens qui s'abat sur les ennemis.
 
 
@@ -89,9 +89,6 @@ Arcanist class...
 ![guer3](https://github.com/Titouan-Schotte/EpickSkills/assets/73279480/f408b27b-cd23-4891-8857-79c65e0c7ac2)
 
 => Vous invoquez un bouclier vous rendant plus fort vous et vos compagnons.
-
-![image](https://github.com/Titouan-Schotte/EpickSkills/assets/73279480/ad5c5915-e4e5-4162-b84b-987f09f05d9f)
-
 
 
 ![guerulti](https://github.com/Titouan-Schotte/EpickSkills/assets/73279480/71d63c4e-0415-40f1-b1c3-cc3b2f9fd9d5)
