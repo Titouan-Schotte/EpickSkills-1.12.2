@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "epickskills",
+    "name": "Mod Epicka Skills",
+    "description": "Skills mod for Epicka server",
+    "version": "1.1.6",
+    "mcversion": "${mcversion}",
+    "url": "https://epicka-dagloth.inovaperf.me/",
+    "updateUrl": "",
+    "authorList": [
+      "SirDrake2",
+      "Titoune"
+    ],
+    "credits": "Groupe Epicka",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

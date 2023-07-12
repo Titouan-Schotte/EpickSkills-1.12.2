@@ -1,0 +1,13 @@
+# Keys
+skill_menu.key=Menu Compétences
+skill1.key=Compétence 1
+skill2.key=Compétence 2
+ulti.key=Compétence Ultime
+key.categories.epicka=Compétences
+item.assassin_projectile_item.name=Assassin Projectile Item
+item.basic_staff.name=Basical Staff
+item.arcaniste_skill2_item.name=Arcaniste Projectile
+itemGroup.epickskill=Epicka Skills
+# Entity
+entity.human.name=Human
+entity.assassin_projectile.name=Assassin Projectile

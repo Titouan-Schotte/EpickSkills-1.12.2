@@ -1,0 +1,340 @@
+{
+
+  "ASSASSIN" : {
+    "SKILL1": {
+      "LEVEL1": {
+        "COOLDOWN": 40,
+        "DAMAGES": 30
+      },
+      "LEVEL2": {
+        "COOLDOWN": 40,
+        "DAMAGES": 60
+      },
+      "LEVEL3": {
+        "COOLDOWN": 35,
+        "DAMAGES": 100
+      }
+    },
+    "SKILL2": {
+      "LEVEL1": {
+        "COOLDOWN": 25,
+        "BUMP": 1
+      },
+      "LEVEL2": {
+        "COOLDOWN": 25,
+        "BUMP": 2
+      },
+      "LEVEL3": {
+        "COOLDOWN": 25,
+        "BUMP": 3
+      }
+    },
+    "SKILL3": {
+      "LEVEL1": {
+        "COOLDOWN": 40,
+        "ACTIVATION": 4,
+        "RADIUS": 6
+      },
+      "LEVEL2": {
+        "COOLDOWN": 40,
+        "ACTIVATION": 5,
+        "RADIUS": 7
+      },
+      "LEVEL3": {
+        "COOLDOWN": 35,
+        "ACTIVATION": 5,
+        "RADIUS": 8
+      }
+    },
+    "ULTI": {
+      "LEVEL1": {
+        "COOLDOWN": 360,
+        "ACTIVATION": 10,
+        "DAMAGES": 2,
+        "RAYON": 3,
+        "RANGE": 15
+      },
+      "LEVEL2": {
+        "COOLDOWN": 360,
+        "ACTIVATION": 15,
+        "DAMAGES": 2,
+        "RAYON": 4,
+        "RANGE": 15
+      },
+      "LEVEL3": {
+        "COOLDOWN": 360,
+        "ACTIVATION": 20,
+        "DAMAGES": 2,
+        "RAYON": 5,
+        "RANGE": 15
+      }
+    }
+  },
+  "ARCANISTE" : {
+    "SKILL1": {
+      "LEVEL1": {
+        "COOLDOWN": 30,
+        "DAMAGES": 0,
+        "ACTIVATION": 7,
+        "RADIUS-ACTIVATION": 8,
+        "RADIUS-TORNADO": 2
+      },
+      "LEVEL2": {
+        "COOLDOWN": 25,
+        "DAMAGES": 0,
+        "ACTIVATION": 10,
+        "RADIUS-ACTIVATION": 10,
+        "RADIUS-TORNADO": 3
+      },
+      "LEVEL3": {
+        "COOLDOWN": 20,
+        "DAMAGES": 0,
+        "ACTIVATION": 14,
+        "RADIUS-ACTIVATION": 12,
+        "RADIUS-TORNADO": 4
+      }
+    },
+    "SKILL2": {
+      "LEVEL1": {
+        "COOLDOWN": 40,
+        "DAMAGES": 0,
+        "RADIUS": 2,
+        "ACTIVATION": 10,
+        "RADIUS-ACTIVATION": 4
+      },
+      "LEVEL2": {
+        "COOLDOWN": 40,
+        "DAMAGES": 0,
+        "RADIUS": 3,
+        "ACTIVATION": 15,
+        "RADIUS-ACTIVATION": 6
+      },
+      "LEVEL3": {
+        "COOLDOWN": 40,
+        "DAMAGES": 0,
+        "RADIUS": 4,
+        "ACTIVATION": 20,
+        "RADIUS-ACTIVATION": 8
+      }
+    },
+    "SKILL3": {
+      "LEVEL1": {
+        "COOLDOWN": 45,
+        "DAMAGES": 40,
+        "MOTIONY": 1,
+        "FIRE": 2,
+        "RADIUS": 1.5
+      },
+      "LEVEL2": {
+        "COOLDOWN": 45,
+        "DAMAGES": 120,
+        "MOTIONY": 1,
+        "FIRE": 3,
+        "RADIUS": 2.5
+      },
+      "LEVEL3": {
+        "COOLDOWN": 40,
+        "DAMAGES": 190,
+        "MOTIONY": 2,
+        "FIRE": 5,
+        "RADIUS": 3.5
+      }
+    },
+    "ULTI": {
+      "LEVEL1": {
+        "COOLDOWN": 360,
+        "RADIUS": 5,
+        "ACTIVATION": 14,
+        "DAMAGES-TICKS":  5,
+        "DAMAGES-POINTED": 15
+      },
+      "LEVEL2": {
+        "COOLDOWN": 360,
+        "RADIUS": 7,
+        "ACTIVATION": 19,
+        "DAMAGES-TICKS": 20,
+        "DAMAGES-POINTED": 25
+      },
+      "LEVEL3": {
+        "COOLDOWN": 360,
+        "RADIUS": 10,
+        "ACTIVATION": 25,
+        "DAMAGES-TICKS": 30,
+        "DAMAGES-POINTED": 50
+      }
+    }
+  },
+  "GUERRIER" : {
+    "SKILL1": {
+      "LEVEL1": {
+        "COOLDOWN": 30,
+        "DAMAGES": 20,
+        "RADIUS": 4,
+        "JUMP": 1
+      },
+      "LEVEL2": {
+        "COOLDOWN": 25,
+        "DAMAGES": 60,
+        "RADIUS": 6,
+        "JUMP": 1.3
+      },
+      "LEVEL3": {
+        "COOLDOWN": 20,
+        "DAMAGES": 170,
+        "RADIUS": 8,
+        "JUMP": 1.5
+      }
+    },
+    "SKILL2": {
+      "LEVEL1": {
+        "COOLDOWN": 40,
+        "ACTIVATION": 10
+      },
+      "LEVEL2": {
+        "COOLDOWN": 35,
+        "ACTIVATION": 15
+      },
+      "LEVEL3": {
+        "COOLDOWN": 25,
+        "ACTIVATION": 15
+      }
+    },
+    "SKILL3": {
+      "LEVEL1": {
+        "COOLDOWN": 45,
+        "ACTIVATION": 10,
+        "LIFELEFT": 20,
+        "RADIUS": 5,
+        "RESISTANCE-PERSO": 1,
+        "RESISTANCE-MULTI": 1
+      },
+      "LEVEL2": {
+        "COOLDOWN": 45,
+        "ACTIVATION": 12,
+        "LIFELEFT": 15,
+        "RADIUS": 6,
+        "RESISTANCE-PERSO": 2,
+        "RESISTANCE-MULTI": 1
+      },
+      "LEVEL3": {
+        "COOLDOWN": 45,
+        "ACTIVATION": 20,
+        "LIFELEFT": 10,
+        "RADIUS": 14,
+        "RESISTANCE-PERSO": 3,
+        "RESISTANCE-MULTI": 1
+      }
+    },
+    "ULTI": {
+      "LEVEL1": {
+        "COOLDOWN": 360,
+        "DAMAGES": 20,
+        "RADIUS": 0.6,
+        "SPEED": 3,
+        "TURNS": 2,
+        "DISTANCE": 2
+      },
+      "LEVEL2": {
+        "COOLDOWN": 360,
+        "DAMAGES": 50,
+        "RADIUS": 0.7,
+        "SPEED": 4,
+        "TURNS": 3,
+        "DISTANCE": 2.5
+      },
+      "LEVEL3": {
+        "COOLDOWN": 360,
+        "DAMAGES": 80,
+        "RADIUS": 0.8,
+        "SPEED": 5,
+        "TURNS": 4,
+        "DISTANCE": 2.7
+      }
+    }
+  },
+  "DRUIDE" : {
+    "SKILL1": {
+      "LEVEL1": {
+        "COOLDOWN": 30,
+        "ACTIVATION": 15,
+        "RADIUS": 4
+      },
+      "LEVEL2": {
+        "COOLDOWN": 25,
+        "ACTIVATION": 20,
+        "RADIUS": 6
+      },
+      "LEVEL3": {
+        "COOLDOWN": 25,
+        "ACTIVATION": 25,
+        "RADIUS": 8
+      }
+    },
+    "SKILL2": {
+      "LEVEL1": {
+        "COOLDOWN": 40,
+        "ACTIVATION": 7,
+        "RADIUS": 5,
+        "DAMAGES": 10
+      },
+      "LEVEL2": {
+        "COOLDOWN": 35,
+        "ACTIVATION": 10,
+        "RADIUS": 7,
+        "DAMAGES": 30
+      },
+      "LEVEL3": {
+        "COOLDOWN": 30,
+        "ACTIVATION": 13,
+        "RADIUS": 10,
+        "DAMAGES": 50
+      }
+    },
+    "SKILL3": {
+      "LEVEL1": {
+        "COOLDOWN": 45,
+        "ACTIVATION": 8,
+        "SPEEDRATE": 0.02,
+        "RANGE": 5
+      },
+      "LEVEL2": {
+        "COOLDOWN": 40,
+        "ACTIVATION": 12,
+        "SPEEDRATE": 0.04,
+        "RANGE":7
+      },
+      "LEVEL3": {
+        "COOLDOWN": 35,
+        "ACTIVATION": 14,
+        "SPEEDRATE": 0.06,
+        "RANGE": 9
+      }
+    },
+    "ULTI": {
+      "LEVEL1": {
+        "COOLDOWN": 360,
+        "DAMAGES": 5,
+        "ACTIVATION": 15,
+        "RADIUS": 2,
+        "SPEEDRATE": 1,
+        "JUMPRATE": 1
+      },
+      "LEVEL2": {
+        "COOLDOWN": 360,
+        "DAMAGES": 10,
+        "ACTIVATION": 19,
+        "RADIUS": 2,
+        "SPEEDRATE": 2,
+        "JUMPRATE": 1
+      },
+      "LEVEL3": {
+        "COOLDOWN": 360,
+        "DAMAGES": 15,
+        "ACTIVATION": 23,
+        "RADIUS": 3,
+        "SPEEDRATE": 3,
+        "JUMPRATE": 1
+      }
+    }
+  }
+}
