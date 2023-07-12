@@ -28,8 +28,16 @@ Arcanist class...
 ## Content
 *Only in french*
 
-### Assassin
+### Interfaces ...
 
+![image](https://github.com/Titouan-Schotte/EpickSkills/assets/73279480/d80ddf00-6307-401d-bb45-0e9c0a05e01b)
+
+![image](https://github.com/Titouan-Schotte/EpickSkills/assets/73279480/c42bef7a-9178-461f-baaa-483bd1b83c87)
+
+![image](https://github.com/Titouan-Schotte/EpickSkills/assets/73279480/1ac8178a-b07b-47d4-b4f7-e2453b2bfa56)
+
+
+### Assassin
 
 ![assa1](https://github.com/Titouan-Schotte/EpickSkills/assets/73279480/fde6c8ab-372d-445e-a02c-e0cc56240073)
 
@@ -140,6 +148,12 @@ There are 4 things to do before using this mod on your server :
 - ⚠️`Contact me to send you an authorization to use it on your production server.`⚠️
 
 Run your server and enjoy !
+
+`/skills` => open gui
+`/epickskillpts <add/remove/set/view> <playerName> <value>` => Add skill points
+`/epickskill <skill1 / skill2 / skill3 / ulti> <playerName> <0 => Blocked / 1 to 3 => Level In>` => Set skill level
+`/epickskillsreload <skill1 / skill2 / skill3 / ulti>` => reload skill config
+
 
 
 ## Credits
