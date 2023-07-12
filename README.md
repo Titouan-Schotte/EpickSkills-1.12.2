@@ -158,6 +158,13 @@ Run your server and enjoy !
 `/epickskillsreload <skill1 / skill2 / skill3 / ulti>` => reload skill config
 
 
+## Terms of use
+
+Please fork the repo when you want to modify the mod.
+It is important to take into consideration that I wish to be informed and credited when the use of the mod exceeds personal use.
+
+*Contact me* : `titouan.schotte@gmail.com` or `titouanschotte` on Discord
+
 
 ## Credits
 
