@@ -18,7 +18,7 @@ Arcanist class...
 
 ![2022-09-10_23-08-25_AdobeExpress](https://github.com/Titouan-Schotte/EpickSkills/assets/73279480/b04df40e-fb71-4f2b-81ec-05dde46e8b6d)
 
-
+![ulti](https://cdn.discordapp.com/attachments/409395427826466827/1005096083812257843/ulti.gif)
 
 ## Content
 *Only in french*
