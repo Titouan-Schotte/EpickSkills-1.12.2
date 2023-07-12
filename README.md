@@ -18,7 +18,7 @@ Arcanist class...
 
 ![2022-09-10_23-08-25_AdobeExpress](https://github.com/Titouan-Schotte/EpickSkills/assets/73279480/b04df40e-fb71-4f2b-81ec-05dde46e8b6d)
 
-![ulti](https://cdn.discordapp.com/attachments/409395427826466827/1005096083812257843/ulti.gif)
+![ulti](https://media.discordapp.net/attachments/922484979412373534/1128704082425684061/ulti_1.gif)
 
 ## Content
 *Only in french*
@@ -36,7 +36,7 @@ Arcanist class...
 => Vous vous propulsez agilement en avant. (Plusieurs activations)
 
 
-![assa3-hover](https://github.com/Titouan-Schotte/EpickSkills/assets/73279480/10789b2c-d829-4746-a442-69401e6f5f42)
+![assa3](https://github.com/Titouan-Schotte/EpickSkills/assets/73279480/c9e483b2-c3ae-4259-b609-6cdd5e715eaf)
 
 => Vous étourdissez les ennemis dans un rayon donné.
 
