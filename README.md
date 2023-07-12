@@ -10,6 +10,7 @@ It is possible to translate it by modifying the "skills/Utilities.java" and GUI 
 
 Feel free to pull request your language update !!
 
+
 ## Exemple 
 
 Arcanist class...
@@ -19,6 +20,10 @@ Arcanist class...
 ![2022-09-10_23-08-25_AdobeExpress](https://github.com/Titouan-Schotte/EpickSkills/assets/73279480/b04df40e-fb71-4f2b-81ec-05dde46e8b6d)
 
 ![ulti](https://media.discordapp.net/attachments/922484979412373534/1128704082425684061/ulti_1.gif)
+
+
+
+
 
 ## Content
 *Only in french*
@@ -125,7 +130,6 @@ Arcanist class...
 
 
 
-
 ## Use it !
 
 There are 4 things to do before using this mod on your server :
@@ -133,6 +137,13 @@ There are 4 things to do before using this mod on your server :
 - Create a folder "epicka" in your world folder and create a subfolder "skills".
 - Add and custom the configSkills.json file in your epicka folder.
 - Add CustomNPC 1.12.2 depencie.
-- Contact me to give you an authorization to use it.
+- ⚠️**Contact me to send you an authorization to use it on your production server.**⚠️
 
 Run your server and enjoy !
+
+
+## Credits
+
+- Epicka Crew => https://discord.gg/NBhJkC2Vfu
+- Justin for beautiful designs !
+- ElDrake for help me on this mod !
